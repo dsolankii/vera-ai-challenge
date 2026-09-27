@@ -10,8 +10,8 @@ services:
       - key: TEAM_NAME
         value: Vera Engine
       - key: TEAM_MEMBERS
-        value: Your Full Name
+        value: Darshan Solanki
       - key: CONTACT_EMAIL
-        value: you@example.com
+        value: soldarshu@gmail.com
       - key: VERA_LLM_REWRITE
         value: "0"
